@@ -1,0 +1,129 @@
+#logo1 {
+  width: 268px;
+  height: 33px;
+}
+#section1 {
+  display: flex;
+  justify-content: space-around;
+  background-color: honeydew;
+  position: fixed;
+  width: 100%;
+  top: 0;
+}
+.menu-g {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+.list1 {
+  cursor: pointer;
+  position: relative;
+  display: block;
+}
+#logo2 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#titre1 {
+  margin: 1em 0;
+  font-family: Work Sans, Arial, sans-serif;
+  font-weight: 300;
+  letter-spacing: -0.3px;
+  font-size: 2.125rem;
+  color: #00b39b;
+  text-align: center;
+  text-shadow: 5px 5px 5px gray;
+}
+.section2 {
+  display: flex;
+  margin-left: 210px;
+  width: 70%;
+  padding: 5px;
+}
+.col2 {
+  font-family: Roboto, Arial, sans-serif;
+  color: #747474;
+  letter-spacing: 1px;
+  line-height: 200%;
+  margin-right: 10px;
+}
+.cadre1 {
+  background-color: seagreen;
+  padding: 20px;
+  margin: 10px;
+  color: #fff;
+  font-family: Work Sans, Arial, sans-serif;
+  border-radius: 10p;
+  height: 345px;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px rgb(65, 64, 64);
+}
+.cadre2 {
+  background-color: rgb(59, 59, 196);
+  padding: 20px;
+  margin: 10px;
+  color: #fff;
+  font-family: Work Sans, Arial, sans-serif;
+  border-radius: 10p;
+  height: 345px;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px rgb(65, 64, 64);
+}
+.cadre3 {
+  background-color: rgb(34, 33, 33);
+  padding: 20px;
+  margin: 10px;
+  color: #fff;
+  font-family: Work Sans, Arial, sans-serif;
+  border-radius: 10p;
+  height: 345px;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px rgb(65, 64, 64);
+}
+#section-c {
+  display: flex;
+  margin-left: 180px;
+  margin-right: 140px;
+  justify-content: space-between;
+}
+
+.switcher1 select {
+  background: none;
+  color: #fff;
+  text-decoration: underline;
+  font-family: Roboto, Arial, sans-serif;
+  font-size: 1.2rem;
+  border: none;
+}
+option {
+  color: gray;
+}
+#tit0 {
+  font-family: Roboto, Arial, sans-serif;
+  letter-spacing: -0.3px;
+  font-size: 1.755rem;
+  color: #00b39b;
+  text-shadow: 5px 5px 5px gray;
+  width: 30%;
+  margin-left: 180px;
+  padding: 20px;
+  line-height: 35px;
+}
+#section-band {
+  display: flex;
+}
+.brands-logos {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  align-items: center;
+  height: 150px;
+}
+.brands-logos li {
+  width: 150px;
+  padding: 10px;
+  margin-top: 30px;
+  margin-right: 20px;
+  list-style-type: none;
+}
